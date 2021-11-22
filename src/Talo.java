@@ -103,6 +103,9 @@ public class Talo {
 		this.huoneLkm = huoneLkm;
 	}
 	
+	public void uusiMetodi() {
+		
+	}
 	
 	
 	
