@@ -105,6 +105,7 @@ public class Talo {
 	
 	public void uusiMetodi() {
 		System.out.println("lisäys");
+		//kommentointikin tehty
 	}
 	
 	
